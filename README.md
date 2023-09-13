@@ -1,6 +1,5 @@
 This directory has the code needed to replicate the results in
-"The impact of current and future climates on spatiotemporal dynamics of influenza in a tropical setting" by Mahmud \textit{et al.}
-
+"The impact of current and future climates on spatiotemporal dynamics of influenza in a tropical setting" by Mahmud et al.
 * `code/` - has the code used in the analysis
 * `data/` - this is where the data should be downloaded and saved
 * `out/`  -  where the results of the scripts get saved 
