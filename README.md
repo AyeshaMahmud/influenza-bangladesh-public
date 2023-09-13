@@ -12,4 +12,4 @@ To replicate our results and run the scripts you will need to get the following 
 
 * Precipitation data from the Climate Research Unit (CRU) gridded monthly dataset which can be downloaded from [here](https://crudata.uea.ac.uk/cru/data/hrg/)
 
-* Population data from \textit{WorldPop} which can be downloaded from [here](https://www.worldpop.org/datacatalog/)
+* Population data from WorldPop which can be downloaded from [here](https://www.worldpop.org/datacatalog/)
