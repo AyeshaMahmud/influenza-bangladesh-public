@@ -6,10 +6,10 @@ This directory has the code needed to replicate the results in
 
 To replicate our results and run the scripts you will need to get the following data:
 
-* Influenza surveillance data from the Institute of Epidemiology, Disease Control and Research, Bangladesh which can be downloaded from [here]{https://iedcr.gov.bd/surveillances/890e910b-665f-4f9a-a0d9-1db2e8d73a60}.
+* Influenza surveillance data from the Institute of Epidemiology, Disease Control and Research, Bangladesh which can be downloaded from [here](https://iedcr.gov.bd/surveillances/890e910b-665f-4f9a-a0d9-1db2e8d73a60).
 
-* Specific humidity and temperature data from the ERA5 gridded hourly dataset which can be downloaded from [here]{https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview}
+* Specific humidity and temperature data from the ERA5 gridded hourly dataset which can be downloaded from [here](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview)
 
-* Precipitation data from the Climate Research Unit (CRU) gridded monthly dataset which can be downloaded from [here]{https://crudata.uea.ac.uk/cru/data/hrg/}
+* Precipitation data from the Climate Research Unit (CRU) gridded monthly dataset which can be downloaded from [here](https://crudata.uea.ac.uk/cru/data/hrg/)
 
-* Population data from \textit{WorldPop} which can be downloaded from [here]{https://www.worldpop.org/datacatalog/}
+* Population data from \textit{WorldPop} which can be downloaded from [here](https://www.worldpop.org/datacatalog/)
